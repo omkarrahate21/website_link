@@ -1,0 +1,40 @@
+*
+{
+margin: 1px;
+padding: 1px;
+}
+
+
+#header
+{
+    background-color: aqua;
+    height: 30px;
+    -webkit-animation: width 4s;
+    
+}
+#nav ul li
+{
+    display: inline-block;
+    
+}
+#li
+{
+    width: 10px;
+    height: 25px;
+    
+}
+a
+{
+    padding: 2px;
+    font-size: 20px;
+font-family: cursive;
+text-decoration:none;
+}
+body
+{
+    background-image:url('pics/d201892f76a8c3b6095f424fa6336859.png');
+}
+
+
+
+
